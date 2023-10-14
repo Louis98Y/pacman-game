@@ -16,11 +16,11 @@ from captureAgents import CaptureAgent
 import random, time, util
 from game import Directions, Actions
 import math
-from agents.t_000.MCTNode import MCTNode
-from agents.t_000.Qfunction import QFunction
+from agents.t_047.MCTNode import MCTNode
+from agents.t_047.Qfunction import QFunction
 from collections import defaultdict
-from agents.t_000.FeatureExtractor import CaptureFeatureExtractor
-from agents.t_000.PositionSearchProblem import PositionSearchProblem
+from agents.t_047.FeatureExtractor import CaptureFeatureExtractor
+from agents.t_047.PositionSearchProblem import PositionSearchProblem
 
 
 #################

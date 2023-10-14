@@ -3,8 +3,8 @@ import time
 import random
 from collections import defaultdict
 from game import Directions
-from agents.t_000.FeatureExtractor import CaptureFeatureExtractor
-from agents.t_000.Qfunction import QFunction
+from agents.t_047.FeatureExtractor import CaptureFeatureExtractor
+from agents.t_047.Qfunction import QFunction
 
 
 class MCTNode:

@@ -1,0 +1,457 @@
+
+Red team agents/t_047/opponentTeam with {}:
+agents/t_047/opponentTeam.py
+Loading Team: agents/t_047/opponentTeam.py
+Arguments: {}
+
+Blue team agents/t_047/myTeam with {}:
+agents/t_047/myTeam.py
+Loading Team: agents/t_047/myTeam.py
+Arguments: {}
+1
+Red team starts
+{(14, 4), (14, 1), (14, 7), (9, 8), (13, 11), (11, 11), (7, 7), (6, 5), (6, 11), (4, 5), (9, 7), (14, 15), (9, 10), (9, 16), (10, 5), (11, 1), (9, 13), (11, 10), (13, 1), (13, 4), (11, 13), (13, 10), (6, 4), (7, 9), (6, 16), (14, 2), (9, 9), (10, 1), (13, 12), (13, 15)}
+{(14, 4), (14, 1), (14, 7), (9, 8), (13, 11), (11, 11), (7, 7), (6, 5), (6, 11), (4, 5), (9, 7), (14, 15), (9, 10), (9, 16), (10, 5), (11, 1), (9, 13), (11, 10), (13, 1), (13, 4), (11, 13), (13, 10), (6, 4), (7, 9), (6, 16), (14, 2), (9, 9), (10, 1), (13, 12), (13, 15)}
+{(20, 5), (27, 1), (23, 16), (27, 13), (19, 15), (24, 8), (26, 8), (20, 7), (20, 13), (22, 4), (20, 16), (22, 7), (23, 12), (22, 16), (27, 6), (19, 2), (27, 12), (24, 4), (24, 1), (24, 7), (24, 10), (26, 10), (20, 6), (29, 12), (22, 6), (19, 10), (19, 16), (19, 13), (24, 9), (20, 2)}
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+roaming
+iterate 43 times, consume 0.015642881393432617, delta 0.009255534394602805
+roaming
+iterate 43 times, consume 0.015644073486328125, delta 0.009255534394602805
+roaming
+iterate 43 times, consume 0.015629053115844727, delta 0.009255534394602805
+iterate 43 times, consume 0.014502763748168945, delta 0.009255534394602805
+iterate 43 times, consume 0.01562666893005371, delta 0.009255534394602805
+roaming
+iterate 43 times, consume 0.01562809944152832, delta 0.009255534394602805
+iterate 43 times, consume 0.01562356948852539, delta 0.009255534394602805
+iterate 43 times, consume 0.01601123809814453, delta 0.009255534394602805
+iterate 43 times, consume 0.01564335823059082, delta 0.009255534394602805
+iterate 43 times, consume 0.014018058776855469, delta 0.009255534394602805
+iterate 38 times, consume 0.015625715255737305, delta 0.00974152257460247
+iterate 38 times, consume 0.013504981994628906, delta 0.00974152257460247
+iterate 43 times, consume 0.015625953674316406, delta 0.009255534394602805
+iterate 38 times, consume 0.017462491989135742, delta 0.00974152257460247
+iterate 38 times, consume 0.021661996841430664, delta 0.00974152257460247
+iterate 43 times, consume 0.01401829719543457, delta 0.009255534394602805
+iterate 38 times, consume 0.015625476837158203, delta 0.00974152257460247
+iterate 38 times, consume 0.013521671295166016, delta 0.00974152257460247
+iterate 43 times, consume 0.0019276142120361328, delta 0.009255534394602805
+iterate 38 times, consume 0.017282485961914062, delta 0.00974152257460247
+chasing unobervable opponent
+iterate 43 times, consume 0.022161245346069336, delta 0.009255534394602805
+iterate 43 times, consume 0.015629291534423828, delta 0.009255534394602805
+iterate 43 times, consume 0.017133474349975586, delta 0.009255534394602805
+iterate 38 times, consume 0.015625, delta 0.00974152257460247
+iterate 43 times, consume 0.013504266738891602, delta 0.009255534394602805
+capture random boundary walking
+food {(13, 11)} is eaten
+chasing unobervable opponent
+iterate 43 times, consume 0.01562666893005371, delta 0.009255534394602805
+food {(13, 11)} is eaten
+iterate 43 times, consume 0.01564311981201172, delta 0.009255534394602805
+iterate 43 times, consume 0.013519048690795898, delta 0.009255534394602805
+food {(13, 12)} is eaten
+iterate 38 times, consume 0.0160369873046875, delta 0.00974152257460247
+food {(13, 12)} is eaten
+iterate 43 times, consume 0.01729726791381836, delta 0.009255534394602805
+iterate 38 times, consume 0.015628814697265625, delta 0.00974152257460247
+chasing unobervable opponent
+iterate 43 times, consume 0.015627622604370117, delta 0.009255534394602805
+iterate 43 times, consume 0.015625, delta 0.009255534394602805
+iterate 43 times, consume 0.013698816299438477, delta 0.009255534394602805
+iterate 38 times, consume 0.016037464141845703, delta 0.00974152257460247
+iterate 43 times, consume 0.015625476837158203, delta 0.009255534394602805
+iterate 38 times, consume 0.021171092987060547, delta 0.00974152257460247
+food {(13, 15)} is eaten
+iterate 38 times, consume 0.015804767608642578, delta 0.00974152257460247
+food {(13, 15)} is eaten
+iterate 43 times, consume 0.015642642974853516, delta 0.009255534394602805
+iterate 38 times, consume 0.018843650817871094, delta 0.00974152257460247
+food {(14, 15)} is eaten
+capture random boundary walking
+food {(14, 15)} is eaten
+iterate 43 times, consume 0.01744222640991211, delta 0.009255534394602805
+iterate 38 times, consume 0.0, delta 0.00974152257460247
+iterate 38 times, consume 0.015623807907104492, delta 0.00974152257460247
+iterate 43 times, consume 0.015627145767211914, delta 0.009255534394602805
+iterate 38 times, consume 0.015911579132080078, delta 0.00974152257460247
+iterate 38 times, consume 0.015642642974853516, delta 0.00974152257460247
+iterate 43 times, consume 0.017476320266723633, delta 0.009255534394602805
+iterate 38 times, consume 0.015517711639404297, delta 0.00974152257460247
+iterate 38 times, consume 0.015625953674316406, delta 0.00974152257460247
+iterate 43 times, consume 0.013518571853637695, delta 0.00956362515023823
+iterate 38 times, consume 0.0, delta 0.00974152257460247
+capture random boundary walking
+iterate 46 times, consume 0.01564311981201172, delta 0.009300472865272802
+capture random boundary walking
+iterate 38 times, consume 0.015642642974853516, delta 0.00974152257460247
+iterate 48 times, consume 0.01564335823059082, delta 0.009395048349834845
+iterate 38 times, consume 0.007518291473388672, delta 0.00974152257460247
+iterate 38 times, consume 0.013018131256103516, delta 0.00974152257460247
+iterate 50 times, consume 0.01562809944152832, delta 0.009048853065236173
+iterate 38 times, consume 0.01720118522644043, delta 0.00974152257460247
+iterate 38 times, consume 0.015626192092895508, delta 0.00974152257460247
+iterate 43 times, consume 0.015629053115844727, delta 0.009255534394602805
+iterate 38 times, consume 0.01450347900390625, delta 0.00974152257460247
+iterate 38 times, consume 0.016805171966552734, delta 0.00974152257460247
+iterate 43 times, consume 0.015625715255737305, delta 0.009255534394602805
+iterate 38 times, consume 0.01562643051147461, delta 0.00974152257460247
+iterate 38 times, consume 0.017319917678833008, delta 0.00974152257460247
+iterate 43 times, consume 0.016450881958007812, delta 0.009255534394602805
+iterate 38 times, consume 0.014507770538330078, delta 0.00974152257460247
+iterate 38 times, consume 0.01403498649597168, delta 0.00974152257460247
+iterate 43 times, consume 0.0035190582275390625, delta 0.009255534394602805
+iterate 38 times, consume 0.0, delta 0.00974152257460247
+iterate 38 times, consume 0.015638113021850586, delta 0.00974152257460247
+iterate 43 times, consume 0.015948057174682617, delta 0.009255534394602805
+iterate 38 times, consume 0.015643835067749023, delta 0.00974152257460247
+food {(13, 10)} is eaten
+iterate 38 times, consume 0.01401972770690918, delta 0.00974152257460247
+food {(13, 10)} is eaten
+iterate 43 times, consume 0.01401829719543457, delta 0.009255534394602805
+iterate 38 times, consume 0.012518167495727539, delta 0.00974152257460247
+iterate 38 times, consume 0.014005184173583984, delta 0.00974152257460247
+iterate 43 times, consume 0.015624523162841797, delta 0.009255534394602805
+iterate 38 times, consume 0.015627384185791016, delta 0.00974152257460247
+iterate 41 times, consume 0.014017820358276367, delta 0.008950703132466487
+iterate 43 times, consume 0.010516881942749023, delta 0.009255534394602805
+iterate 41 times, consume 0.017424583435058594, delta 0.008760545499459482
+iterate 41 times, consume 0.015535831451416016, delta 0.008950703132466487
+iterate 43 times, consume 0.015731334686279297, delta 0.009255534394602805
+iterate 41 times, consume 0.01726698875427246, delta 0.008760545499459482
+food {(11, 10)} is eaten
+iterate 41 times, consume 0.0, delta 0.008950703132466487
+food {(11, 10)} is eaten
+iterate 43 times, consume 0.015642642974853516, delta 0.009255534394888798
+iterate 41 times, consume 0.015680551528930664, delta 0.008760545499459482
+food {(11, 11)} is eaten
+iterate 38 times, consume 0.008018016815185547, delta 0.00974152257460247
+food {(11, 11)} is eaten
+iterate 43 times, consume 0.01601099967956543, delta 0.00925553439489768
+iterate 38 times, consume 0.015644073486328125, delta 0.00974152257460247
+iterate 38 times, consume 0.016956567764282227, delta 0.00974152257460247
+iterate 43 times, consume 0.015625715255737305, delta 0.00925553439489768
+iterate 38 times, consume 0.014069318771362305, delta 0.00974152257460247
+food {(11, 13)} is eaten
+iterate 38 times, consume 0.016035795211791992, delta 0.00974152257460247
+food {(11, 13)} is eaten
+iterate 43 times, consume 0.020536422729492188, delta 0.00925553439493676
+iterate 38 times, consume 0.015625953674316406, delta 0.00974152257460247
+iterate 38 times, consume 0.01732349395751953, delta 0.00974152257460247
+iterate 43 times, consume 0.015626192092895508, delta 0.00925553439493676
+iterate 38 times, consume 0.0, delta 0.00974152257460247
+iterate 38 times, consume 0.0160372257232666, delta 0.00974152257460247
+iterate 43 times, consume 0.01603555679321289, delta 0.00925553439493676
+iterate 38 times, consume 0.015625, delta 0.00974152257460247
+capture random boundary walking
+iterate 43 times, consume 0.016130924224853516, delta 0.00925553439493676
+iterate 38 times, consume 0.015642404556274414, delta 0.00974152257460247
+capture random boundary walking
+iterate 43 times, consume 0.01401829719543457, delta 0.00925553439493676
+iterate 38 times, consume 0.0, delta 0.00974152257460247
+food {(9, 16)} is eaten
+iterate 41 times, consume 0.01564311981201172, delta 0.008950703132466487
+food {(9, 16)} is eaten
+iterate 43 times, consume 0.017328500747680664, delta 0.009255534411346744
+iterate 41 times, consume 0.01609635353088379, delta 0.008760545499459482
+iterate 43 times, consume 0.014018535614013672, delta 0.009255534394602805
+iterate 43 times, consume 0.017384052276611328, delta 0.009255534411346744
+iterate 43 times, consume 0.013019323348999023, delta 0.009255534394602805
+chasing unobervable opponent
+iterate 43 times, consume 0.01747727394104004, delta 0.009255534394602805
+iterate 43 times, consume 0.015642404556274414, delta 0.009255534411346744
+iterate 43 times, consume 0.018533706665039062, delta 0.009255534394602805
+food {(9, 13)} is eaten
+chasing unobervable opponent
+iterate 43 times, consume 0.015642404556274414, delta 0.009255534394602805
+food {(9, 13)} is eaten
+iterate 43 times, consume 0.015625476837158203, delta 0.009255534409557953
+iterate 43 times, consume 0.01568913459777832, delta 0.009255534394602805
+chasing unobervable opponent
+iterate 43 times, consume 0.01749396324157715, delta 0.009255534394602805
+iterate 43 times, consume 0.015629053115844727, delta 0.009255534409557953
+iterate 43 times, consume 0.017258405685424805, delta 0.009255534394602805
+chasing unobervable opponent
+iterate 43 times, consume 0.01562643051147461, delta 0.009255534394602805
+iterate 43 times, consume 0.015627622604370117, delta 0.009255534409557953
+iterate 43 times, consume 0.014535903930664062, delta 0.009255534394602805
+chasing unobervable opponent
+iterate 43 times, consume 0.015628337860107422, delta 0.009255534394602805
+iterate 43 times, consume 0.015642881393432617, delta 0.009255534409557953
+iterate 43 times, consume 0.017192840576171875, delta 0.009255534394602805
+chasing unobervable opponent
+iterate 43 times, consume 0.015642404556274414, delta 0.009255534394602805
+iterate 43 times, consume 0.015625715255737305, delta 0.009255534409557953
+iterate 43 times, consume 0.01564311981201172, delta 0.009255534394602805
+chasing unobervable opponent
+iterate 43 times, consume 0.015173912048339844, delta 0.009255534394602805
+iterate 43 times, consume 0.014734506607055664, delta 0.009255534409557953
+food {(20, 6)} is eaten
+iterate 43 times, consume 0.0160372257232666, delta 0.009255534394602805
+food {(6, 16)} is eaten
+chasing unobervable opponent
+iterate 43 times, consume 0.015838146209716797, delta 0.009255534394602805
+food {(6, 16)} is eaten
+iterate 43 times, consume 0.017446041107177734, delta 0.009255533980327968
+food {(20, 5)} is eaten
+iterate 43 times, consume 0.013425588607788086, delta 0.009255534394602805
+chasing unobervable opponent
+iterate 43 times, consume 0.00951838493347168, delta 0.009255534394602805
+iterate 43 times, consume 0.016010522842407227, delta 0.009255533980327968
+food {(20, 7)} is eaten
+iterate 43 times, consume 0.015625953674316406, delta 0.009255534394602805
+chasing unobervable opponent
+iterate 43 times, consume 0.0018513202667236328, delta 0.009255534394602805
+iterate 43 times, consume 0.01562809944152832, delta 0.009255533980327968
+iterate 43 times, consume 0.02060675621032715, delta 0.009255534394602805
+chasing unobervable opponent
+iterate 43 times, consume 0.015022516250610352, delta 0.009255534394602805
+iterate 43 times, consume 0.02166008949279785, delta 0.009255533980327968
+food {(20, 2)} is eaten
+iterate 43 times, consume 0.01401829719543457, delta 0.009255534394602805
+chasing unobervable opponent
+iterate 43 times, consume 0.01564335823059082, delta 0.009255534394602805
+iterate 43 times, consume 0.015662193298339844, delta 0.009255533980327968
+food {(19, 2)} is eaten
+iterate 43 times, consume 0.01580810546875, delta 0.009255534394602805
+food {(6, 11)} is eaten
+chasing unobervable opponent
+iterate 43 times, consume 0.02416205406188965, delta 0.009255534394888798
+food {(6, 11)} is eaten
+iterate 43 times, consume 0.015627622604370117, delta 0.009255800751509113
+food {(22, 7)} is eaten
+iterate 43 times, consume 0.0160369873046875, delta 0.009255534394888798
+chasing unobervable opponent
+iterate 43 times, consume 0.015626907348632812, delta 0.00925553439489768
+iterate 43 times, consume 0.01580667495727539, delta 0.009255800751509113
+food {(22, 6)} is eaten
+iterate 43 times, consume 0.01753687858581543, delta 0.00925553439489768
+chasing unobervable opponent
+iterate 43 times, consume 0.014019012451171875, delta 0.00925553439489768
+iterate 43 times, consume 0.014017820358276367, delta 0.009255800751509113
+iterate 43 times, consume 0.0186614990234375, delta 0.00925553439489768
+chasing unobervable opponent
+iterate 43 times, consume 0.016421079635620117, delta 0.009563652911216636
+iterate 43 times, consume 0.014018535614013672, delta 0.009255800751509113
+food {(22, 4)} is eaten
+iterate 43 times, consume 0.015626192092895508, delta 0.00925553439493676
+food {(9, 10)} is eaten
+chasing unobervable opponent
+iterate 46 times, consume 0.0206298828125, delta 0.00930074776027201
+food {(9, 10)} is eaten
+iterate 43 times, consume 0.025631189346313477, delta 0.009267864985256224
+iterate 43 times, consume 0.01562666893005371, delta 0.00925553439493676
+food {(9, 9)} is eaten
+chasing unobervable opponent
+iterate 48 times, consume 0.01564311981201172, delta 0.009395389001721988
+food {(9, 9)} is eaten
+iterate 42 times, consume 0.015625953674316406, delta 0.009481488125578252
+iterate 43 times, consume 0.015629053115844727, delta 0.00925553439493676
+food {(9, 8)} is eaten
+chasing unobervable opponent
+iterate 50 times, consume 0.016536474227905273, delta 0.009048897920212795
+food {(9, 8)} is eaten
+iterate 43 times, consume 0.007503986358642578, delta 0.009179601729146114
+iterate 43 times, consume 0.014003992080688477, delta 0.00925553439493676
+food {(9, 7)} is eaten
+chasing unobervable opponent
+iterate 43 times, consume 0.015628814697265625, delta 0.00925553439493676
+food {(9, 7)} is eaten
+iterate 42 times, consume 0.015658140182495117, delta 0.009481488125578252
+iterate 43 times, consume 0.015625715255737305, delta 0.00925553439493676
+chasing unobervable opponent
+iterate 43 times, consume 0.014018058776855469, delta 0.009255534411346744
+iterate 42 times, consume 0.01564168930053711, delta 0.009481488125578252
+food {(24, 1)} is eaten
+iterate 43 times, consume 0.015266180038452148, delta 0.009255534411346744
+chasing unobervable opponent
+iterate 43 times, consume 0.01562786102294922, delta 0.009255534411346744
+iterate 42 times, consume 0.005009889602661133, delta 0.009481488125578252
+iterate 43 times, consume 0.01664423942565918, delta 0.009255534411346744
+chasing unobervable opponent
+iterate 43 times, consume 0.014534711837768555, delta 0.009255534411346744
+iterate 42 times, consume 0.01908588409423828, delta 0.009481488125578252
+iterate 43 times, consume 0.014017820358276367, delta 0.009255534411346744
+chasing unobervable opponent
+iterate 43 times, consume 0.01813340187072754, delta 0.009255534409557953
+iterate 42 times, consume 0.0160369873046875, delta 0.009481488125578252
+food {(24, 4)} is eaten
+iterate 43 times, consume 0.01562786102294922, delta 0.009255534409557953
+chasing unobervable opponent
+iterate 43 times, consume 0.015628337860107422, delta 0.009255534409557953
+iterate 42 times, consume 0.0, delta 0.009481488125578252
+iterate 43 times, consume 0.01564335823059082, delta 0.009255534409557953
+chasing unobervable opponent
+iterate 43 times, consume 0.015643835067749023, delta 0.009255534409557953
+iterate 42 times, consume 0.01562666893005371, delta 0.009481488125578252
+food {(19, 10)} is eaten
+iterate 43 times, consume 0.016008853912353516, delta 0.009255534409557953
+chasing unobervable opponent
+iterate 43 times, consume 0.0017871856689453125, delta 0.009255534409557953
+iterate 42 times, consume 0.015642642974853516, delta 0.009481488125578252
+iterate 43 times, consume 0.0058438777923583984, delta 0.009255534409557953
+chasing unobervable opponent
+iterate 43 times, consume 0.016665935516357422, delta 0.009255534409557953
+iterate 42 times, consume 0.01601099967956543, delta 0.009481488125578252
+iterate 43 times, consume 0.011518001556396484, delta 0.009255534409557953
+chasing unobervable opponent
+iterate 43 times, consume 0.013017654418945312, delta 0.009255534409557953
+iterate 42 times, consume 0.00801849365234375, delta 0.009481488125578252
+food {(19, 13)} is eaten
+iterate 43 times, consume 0.015642881393432617, delta 0.009255534409557953
+food {(7, 9)} is eaten
+chasing unobervable opponent
+iterate 43 times, consume 0.015854835510253906, delta 0.009255533980327968
+food {(7, 9)} is eaten
+iterate 42 times, consume 0.014018058776855469, delta 0.009481488125578252
+food {(20, 13), (27, 1)} is eaten
+iterate 43 times, consume 0.017296791076660156, delta 0.009255533980327968
+chasing unobervable opponent
+iterate 43 times, consume 0.01713395118713379, delta 0.009255533980327968
+iterate 42 times, consume 0.015629291534423828, delta 0.009481488125578252
+iterate 43 times, consume 0.015895843505859375, delta 0.009255533980327968
+chasing unobervable opponent
+iterate 43 times, consume 0.015626192092895508, delta 0.009255533980327968
+iterate 42 times, consume 0.016037464141845703, delta 0.009481488125578252
+iterate 43 times, consume 0.004185676574707031, delta 0.009255533980327968
+chasing unobervable opponent
+iterate 43 times, consume 0.019152402877807617, delta 0.009255533980327968
+iterate 42 times, consume 0.01562643051147461, delta 0.009481488125578252
+iterate 43 times, consume 0.017286062240600586, delta 0.009255533980327968
+food {(7, 7)} is eaten
+chasing unobervable opponent
+iterate 43 times, consume 0.01564335823059082, delta 0.009255533980327968
+food {(7, 7)} is eaten
+iterate 42 times, consume 0.017286300659179688, delta 0.009480229922573358
+iterate 43 times, consume 0.015642881393432617, delta 0.009255533980327968
+chasing unobervable opponent
+iterate 44 times, consume 0.0, delta 0.009588752776609866
+iterate 42 times, consume 0.015625715255737305, delta 0.009461142527989352
+food {(27, 6)} is eaten
+iterate 43 times, consume 0.016123533248901367, delta 0.009255800751507337
+chasing unobervable opponent
+iterate 47 times, consume 0.031269073486328125, delta 0.009036126013056034
+iterate 42 times, consume 0.014017820358276367, delta 0.009472337365112438
+iterate 43 times, consume 0.01728963851928711, delta 0.009255800751507337
+chasing unobervable opponent
+iterate 43 times, consume 0.016096830368041992, delta 0.009255800751507337
+iterate 45 times, consume 0.026132822036743164, delta 0.009485834721661313
+iterate 43 times, consume 0.016004085540771484, delta 0.009255800751507337
+chasing unobervable opponent
+iterate 43 times, consume 0.014004707336425781, delta 0.009255800751507337
+iterate 47 times, consume 0.022132396697998047, delta 0.009794291556388224
+iterate 43 times, consume 0.016008615493774414, delta 0.009255800751507337
+food {(4, 5)} is eaten
+chasing unobervable opponent
+iterate 43 times, consume 0.015642881393432617, delta 0.009267864985256224
+food {(4, 5)} is eaten
+iterate 51 times, consume 0.014018058776855469, delta 0.009997921625359396
+food {(24, 7)} is eaten
+iterate 43 times, consume 0.01564168930053711, delta 0.009267864985256224
+chasing unobervable opponent
+iterate 42 times, consume 0.015821218490600586, delta 0.009435884199795908
+iterate 53 times, consume 0.015642881393432617, delta 0.009069836033063883
+food {(24, 8)} is eaten
+iterate 42 times, consume 0.009259939193725586, delta 0.009435884199795908
+chasing unobervable opponent
+iterate 43 times, consume 0.015642642974853516, delta 0.009179601729146114
+iterate 54 times, consume 0.017261505126953125, delta 0.009091737875412065
+food {(24, 9)} is eaten
+iterate 43 times, consume 0.015625, delta 0.009179601729146114
+chasing unobervable opponent
+iterate 42 times, consume 0.015642881393432617, delta 0.009423066146636572
+iterate 55 times, consume 0.01566910743713379, delta 0.009007503608155165
+food {(24, 10)} is eaten
+iterate 42 times, consume 0.015642642974853516, delta 0.009423066146636572
+chasing unobervable opponent
+iterate 42 times, consume 0.007681608200073242, delta 0.009423066146636572
+iterate 55 times, consume 0.015625953674316406, delta 0.00991047752640517
+food {(19, 15)} is eaten
+iterate 42 times, consume 0.01401829719543457, delta 0.009423090714328453
+chasing unobervable opponent
+iterate 42 times, consume 0.01591944694519043, delta 0.009423090714328453
+iterate 56 times, consume 0.015919208526611328, delta 0.009631644948653317
+food {(19, 16)} is eaten
+iterate 42 times, consume 0.01562643051147461, delta 0.009423093513367675
+chasing unobervable opponent
+iterate 42 times, consume 0.015626192092895508, delta 0.009423093513367675
+iterate 57 times, consume 0.014503002166748047, delta 0.009295918061839714
+food {(20, 16)} is eaten
+iterate 42 times, consume 0.004610776901245117, delta 0.009423130456040596
+chasing unobervable opponent
+iterate 42 times, consume 0.015625953674316406, delta 0.009423130456040596
+iterate 58 times, consume 0.021661043167114258, delta 0.008919913337139374
+iterate 42 times, consume 0.015348434448242188, delta 0.009423130456040596
+chasing unobervable opponent
+iterate 42 times, consume 0.01744246482849121, delta 0.009423130456040596
+iterate 58 times, consume 0.021509408950805664, delta 0.00955815609460986
+food {(22, 16)} is eaten
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\Desktop\a3-chidouren\capture.py", line 1105, in <module>
+    games = runGames(**options)
+            ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\a3-chidouren\capture.py", line 1062, in runGames
+    g.run(delay=delay_step)
+  File "C:\Users\Lenovo\Desktop\a3-chidouren\game.py", line 687, in run
+    action = agent.getAction(observation)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\a3-chidouren\captureAgents.py", line 162, in getAction
+    return self.chooseAction(gameState)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\a3-chidouren\agents\t_047\extendAgents.py", line 40, in chooseAction
+    action = self.getBestAction(gameState)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\a3-chidouren\agents\t_047\liaoCaoAgents.py", line 154, in getBestAction
+    delta = self.IV.iterateValue()
+            ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\a3-chidouren\agents\t_047\VIProblem.py", line 102, in iterateValue
+    delta = max(delta, node.bellmanUpdate())
+                       ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\a3-chidouren\agents\t_047\VIProblem.py", line 29, in bellmanUpdate
+    for i in range(1,n):
+             ^^^^^^^^^^
+KeyboardInterrupt

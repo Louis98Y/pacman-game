@@ -15,6 +15,7 @@
 from captureAgents import CaptureAgent
 import random, time, util
 import game
+from game import Directions, Actions
 
 #################
 # Team creation #
@@ -234,8 +235,14 @@ class PositionSearchProblem:
     
 class Agent1(DummyAgent):
   pass
+  
 
 class Agent2(DummyAgent):
+
+  '''
+  def chooseAction(self, gameState):
+     return Directions.STOP
+  '''
   
   # this agent will reach to the furthest goal
   def getClosestPos(self,gameState,pos_list):

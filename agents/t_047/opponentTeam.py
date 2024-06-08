@@ -11,25 +11,19 @@
 # Student side autograding was added by Brad Miller, Nick Hay, and
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
-
-from captureAgents import CaptureAgent
-import random, time, util
-from game import Directions, Actions
-import math
-from agents.t_047.Qfunction import QFunction
-from collections import defaultdict
-from agents.t_047.positionSearchProblem import *
-from agents.t_047.VIAgent import VIAgent
+from game import Directions
+from agents.t_047.liaoCaoAgents import *
+from agents.t_047.defendingAgent import *
 
 #################
 # Team creation #
 #################
 
 def createTeam(firstIndex, secondIndex, isRed,
-               first = 'DingyuanAgent1', second = 'DingyuanAgent2'):
+               first = 'Agent1', second = 'Agent2'):
   """
   This function should return a list of two agents that will form the
-  team, initialized using firstIndex and secondndex as their agent
+  team, initialized using firstIndex and secondIndex as their agent
   index numbers.  isRed is True if the red team is being created, and
   will be False if the blue team is being created.
 
@@ -45,16 +39,15 @@ def createTeam(firstIndex, secondIndex, isRed,
   # The following line is an example only; feel free to change it.
   return [eval(first)(firstIndex), eval(second)(secondIndex)]
 
-
 ##########
 # Agents #
 ##########
-    
 
-class DingyuanAgent1(VIAgent):
-    pass
 
-class DingyuanAgent2(VIAgent):
-    def chooseAction(self, gameState):
-       return Directions.STOP
-    
+class Agent1(DefendAgent):
+  pass
+
+class Agent2(DefendAgent):
+  def chooseAction(self, gameState):
+    return Directions.STOP
+  

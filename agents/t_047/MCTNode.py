@@ -3,7 +3,6 @@ import time
 import random
 from collections import defaultdict
 from game import Directions
-from agents.t_047.FeatureExtractor import CaptureFeatureExtractor
 from agents.t_047.Qfunction import QFunction
 
 
@@ -19,7 +18,7 @@ class MCTNode:
         self.children = []
 
         self.unexpandedActions = state.getLegalActions(agentIndex=self.agent.index)
-        #self.unexpandedActions.remove(Directions.STOP)
+        self.unexpandedActions.remove(Directions.STOP)
 
         # The Q function used to store state-action values
         self.qfunction = qfunction
@@ -80,7 +79,8 @@ class MCTNode:
         visits = MCTNode.visits[(self.state, action)]
         # use 1 / visits as learning rate
         delta = (1 / visits) * (reward - q_value)
-        self.qfunction.update(self.state, action, delta)
+        new_q_value = q_value + delta
+        self.qfunction.update(self.state, action, new_q_value)
 
         if self.parent != None:
             self.parent.back_propagate(self.reward + reward, self)
@@ -97,6 +97,11 @@ class MCTNode:
                 max_q_value = q_value
                 best_action = action
 
+        if best_action == None:
+            legalActions = self.state.getLegalActions(agentIndex=self.agent.index)
+            legalActions.remove(Directions.STOP)
+            best_action = random.choice(legalActions)
+          
         return best_action
 
         '''
@@ -110,4 +115,4 @@ class MCTNode:
         print("Best action is " + str(best_action) + " with Q visit times " + str(visits))
         return best_action
         '''
-    
+        
